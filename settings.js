@@ -23,12 +23,12 @@ global.ownername= "ᴹᴿ᭄ Kyouka ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://instagram.com/ruka.nime7"
 global.github = "https://Neko-Yuri.github.io/"
-global.ownernomer = "6282112080081"
-global.ownernomerr = "+6282112080081"
+global.ownernomer = "6288233902788"
+global.ownernomerr = "2349064781021"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282112080081","6282112080081","6282112080081"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["2349064781021"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Loli-Mdོ' //sticker wm
 global.author = 'ᴹᴿ᭄ Kyouka ×፝֟͜×' //sticker wm
 global.sessionName = 'session'
@@ -40,7 +40,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: 'Nehh',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
